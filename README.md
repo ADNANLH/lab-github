@@ -1,12 +1,23 @@
-# lab-github <br>
-## Work to do
+# lab-github 
+## Travail à fair
 
-You need to collaborate with someone and open a conflict using git methods.
+Comment résolvent-ils les conflits lorsqu'ils travaillent simultanément sur le même projet **d'une recette de Smoothie aux fruits** dans Git?
 
-## Use Git methods ?
+## Critère de validation 
+- Création des Branches
+- Résolution des conflits
+- Utilisation des merge
+
+## Les références
+[Les branches](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+
+[Resolving a merge conflict using the command line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+
+[git-merge](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
 
 
-
+## Solution
+[]()
 **Steps to make conflict** <br>
 
 After collaborate with someone else to work on same repo 
