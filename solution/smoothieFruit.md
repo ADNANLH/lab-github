@@ -1,7 +1,7 @@
 # Solution
 
 ## Ingrédients
-- 500 g (1 tasse) de fruits surgelés variés au goût (fraises, mangue, framboises, etc.) ou 1 banane
+- 500 g (2 tasse) de fruits surgelés variés au goût (fraises, mangue, framboises, etc.) ou 1 banane
 - 125 ml (1/2 tasse) de lait
 - 125 ml (1/2 tasse) de yogourt nature
 - 15 ml (1 c. à soupe) de miel ou de sucre
