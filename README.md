@@ -17,6 +17,5 @@ Comment résolvent-ils les conflits lorsqu'ils travaillent simultanément sur le
 
 
 ## Solution
-[recette de Smoothie fruits]()
-[les commandes utiliser pour ouvrir la solution]()
-
+[recette de Smoothie fruits](https://github.com/ADNANLH/lab-github/blob/main/solution/smoothieFruit.md)<br>
+[les commandes utiliser pour ouvrir la solution](https://github.com/ADNANLH/lab-github/blob/main/Comands/README.md)
