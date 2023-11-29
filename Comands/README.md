@@ -1,2 +1,14 @@
 # les commande utilisé pour la solution
-1. Vérifier la branche actuel et 
+1. Vérifier les branche et la branche actuel
+```
+    git branch
+    git checkout master
+```
+2. Création des Branches pour le chef 1 et le chef 2:
+```
+git checkout -b chef-1 main #le chef 1 va travaille sur cette branche
+git checkout main # pour retourner a le main branch
+git checkout -b chef-2 main #le chef 2 va travaille sur cette branche
+
+
+```
